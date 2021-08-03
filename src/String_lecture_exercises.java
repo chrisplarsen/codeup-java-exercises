@@ -17,6 +17,9 @@ public class String_lecture_exercises {
         System.out.println(correctConfirmation);
 
         //
+        //String exercises below
+        //
+
 
 
     }
